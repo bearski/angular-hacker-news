@@ -1,3 +1,9 @@
+
+# Building Hacker News with Angular cli, rxjs and webpack
+
+tutorial - https://houssein.me/angular2-hacker-news
+
+
 # Angular2Hn
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
